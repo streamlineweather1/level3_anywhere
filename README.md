@@ -11,7 +11,7 @@
 
 my new code
 
-![screenshot](imageFolder/.png)
+![screenshot](images/GFS18_conus_mslp_pwat-4.png)
 
 </header>
 
