@@ -11,8 +11,7 @@ The software can handle automatic processing of everything from one single level
 Below we see a screenshot of data from the KBMX radar (NWS Birmingham, AL) from April 11th, 2011 remapped to the KTBW radar (NWS Tampa Bay Area). In this instance, the Tuscaloosa EF-4 tornado event is now impacting the coastline of Pinelles County, Florida.<br><br>
 
 <center><img src="images/bmx2tbw-1.png" alt="KBMX Remapped to KTBW" width="500" height="400">
-<b>April 27th, 2011 Tuscaloosa to Birmingham Tornado - <br>
-KBMX (Birmingham, AL) mapped to KTBW (Ruskin,FL)</b></center></center>
+<b>April 27th, 2011 Tuscaloosa to Birmingham Tornado - KBMX (Birmingham, AL) mapped to KTBW (Ruskin,FL)</b></center></center>
 
 <!--![screenshot](images/bmx2tbw-1.png)-->
 
