@@ -11,6 +11,7 @@
 
 The Convert_Level3 software package contains a set of scripts that takes level 3 radar products from an original rpg site and converts them to a new rpg site. Users also have the option to change the date and time of the data in some of the program sections. There are two versions of the software available. 
 
+<img src="images/bmx2tbw-1.png" alt="Sample Image" width="400" height="300"><br><br>
 ![screenshot](images/bmx2tbw-1.png)
 
 </header>
