@@ -63,7 +63,7 @@ Level3_Anywhere is created by Bryan Mroczka of Streamline Weather Consulting, LL
 
 <br>
 
-<center><img src="images/ohx2fws-1.png" alt="KOHX Remapped to KFWS" width="400" height="400">
+<center><img src="images/ohx2fws-1.png" alt="KOHX Remapped to KFWS" width="500" height="300">
 <b>May 1 - 2, 2010 Nashville Flash Flooding Event - KOHX (Nashville, TN) mapped to KFWS (Fort Worth, TX)<br>Date/Time Changed at 12:00AM New Years Eve 2020</center></b><br>
 
 <br>
