@@ -1,8 +1,8 @@
 <header>
-# Introducing Level 3 Anywhere
+## Introducing Level 3 Anywhere
 </header>
 
-## Step 1: Create a branch
+## Introducing Level3_Anywhere
 
 The level3_anywhere software package provides a python-based application to convert level3 radar products from an original RPG radar site to any other valid RPG radar site.<br><br>
 
