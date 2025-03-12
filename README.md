@@ -8,7 +8,7 @@ The level3_anywhere software package provides a python-based application to conv
 
 The software can handle automatic processing of everything from one single level 3 product file to hundreds or thousands of files that would constitute an entire weather event worth of level 3 files. All level 3 products and product identifiers are supported with the current software release.<br><br>
 
-Below we see a screenshot of data from the KBMX radar (NWS Birmingham, AL) from April 11th, 2011 remapped to the KTBW radar (NWS Tampa Bay Area). In this instance, the Tuscaloosa EF-4 tornado event is now impacting the coastline of Pinelles County, Florida.<br><br>
+Below we see a screenshot of data from the KBMX radar (NWS Birmingham, AL) from April 11th, 2011 remapped to the KTBW radar (NWS Tampa Bay Area). In this instance, the Tuscaloosa EF-4 tornado event is now impacting the coastline of Pinelles County, Florida.<br>
 
 <center><img src="images/bmx2tbw-1.png" alt="KBMX Remapped to KTBW" width="400" height="300"><br>
 <b>April 27th, 2011 Tuscaloosa to Birmingham Tornado - <br>
@@ -18,6 +18,10 @@ KBMX (Birmingham, AL) mapped to KTBW (Ruskin,FL)</b></center></center>
 
 ## How to Use
 
+print("<old_stid> <new_stid> <path> <product string>")
+print("BMX TBW /home/bryan/Convert_Level3/data/ all")
+print("or...")
+print("BMX TBW /home/bryan/Convert_Level3/data/ NQ0")
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
