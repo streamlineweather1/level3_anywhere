@@ -15,11 +15,7 @@ KBMX (Birmingham, AL) mapped to KTBW (Ruskin,FL)</b></center></center>
 <!--![screenshot](images/bmx2tbw-1.png)-->
 
 ## How to Use
-Open the WeatherSense Forecast website in your web browser from the link - (https://anantagg.github.io/Weather-App/)
-Grant permission for the app to access your location when prompted.
-The app will display the current weather information for your area.
-To search for weather data by city name, enter the city name in the designated search bar and press Enter or click the search button.
-The app will show the weather information based on the searched city.
+
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -29,25 +25,21 @@ No installation is required for this web application. Simply access the WeatherS
 <hr style="width:50%;text-align:left;margin-left:0">
 
 ## Contributions
-Contributions to theWeatherSense project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the GitHub repository.
+Contributions to Level2_Anywhere project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the GitHub repository.
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
 ## License
-WeatherSense is created by me , which means you are free to use, modify, and distribute the code in accordance with the terms of the license.
+Level3_Anywhere is created by Bryan Mroczka of Streamline Weather Consulting, LLC. Users are free to use, modify, and distribute the code in accordance with the terms of the license.
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
 ## Acknowledgements
-I would like to thanks love Babbar for his Web Dev Course. His Course made all this possible.
-I also used "openweathermap" API for this project which is a free API and that helped me a lot for this project
-Contact
-If you have any questions, feedback, or inquiries, please don't hesitate to reach out to me. You can contact me by email - anantaggcsai@gmail.com or create an issue on the GitHub repository.
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
 ## Final Thoughts
-I hope you find the WeatherSense useful for checking weather conditions in your area or any city you're interested in. Enjoy using the app and stay informed about the weather!
+
 
 <footer>
 
