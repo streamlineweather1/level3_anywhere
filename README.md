@@ -1,5 +1,4 @@
 <header>
-## Introducing Level 3 Anywhere
 </header>
 
 ## Introducing Level3_Anywhere
