@@ -44,6 +44,10 @@ Level3_Anywhere is created by Bryan Mroczka of Streamline Weather Consulting, LL
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
+## Additional Remapping Examples
+
+<hr style="width:50%;text-align:left;margin-left:0">
+
 ## Final Thoughts
 
 
