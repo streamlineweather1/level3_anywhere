@@ -10,7 +10,7 @@ The software can handle automatic processing of everything from one single level
 
 Below we see a screenshot of data from the KBMX radar (NWS Birmingham, AL) from April 11th, 2011 remapped to the KTBW radar (NWS Tampa Bay Area). In this instance, the Tuscaloosa EF-4 tornado event is now impacting the coastline of Pinelles County, Florida.<br><br>
 
-<center><img src="images/bmx2tbw-1.png" alt="KBMX Remapped to KTBW" width="500" height="400"><br>
+<center><img src="images/bmx2tbw-1.png" alt="KBMX Remapped to KTBW" width="500" height="400">
 <b>April 27th, 2011 Tuscaloosa to Birmingham Tornado - <br>
 KBMX (Birmingham, AL) mapped to KTBW (Ruskin,FL)</b></center></center>
 
@@ -46,8 +46,8 @@ Level3_Anywhere is created by Bryan Mroczka of Streamline Weather Consulting, LL
 
 ## Additional Remapping Examples
 
-<center><img src="images/KTLH2KBOX-1.png" alt="KTLH Remapped to KBOX" width="500" height="400"><br>
-<b></b>October 10th, 2018 Hurricane Micheal<br>
+<center><img src="images/KTLH2KBOX-1.png" alt="KTLH Remapped to KBOX" width="500" height="400">
+<b>October 10th, 2018 Hurricane Micheal<br>
 KTLH (Tallahassee, FL) mapped to KBOX (Boston, MA)</center></b>
 
 ## Final Thoughts
