@@ -46,7 +46,9 @@ Level3_Anywhere is created by Bryan Mroczka of Streamline Weather Consulting, LL
 
 ## Additional Remapping Examples
 
-<center><img src="images/ktlh2kbox-1.png" alt="KTLH Remapped to KBOX" width="500" height="400"><br>
+<center><img src="images/KTLH2KBOX-1.png" alt="KTLH Remapped to KBOX" width="500" height="400"><br>
+<b></b>October 10th, 2018 Hurricane Micheal<br>
+KTLH (Tallahassee, FL) mapped to KBOX (Boston, MA)</center></b>
 
 ## Final Thoughts
 
