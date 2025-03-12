@@ -47,34 +47,32 @@ Level3_Anywhere is created by Bryan Mroczka of Streamline Weather Consulting, LL
 ## Additional Remapping Examples
 
 <center><img src="images/KTLH2KBOX-1.png" alt="KTLH Remapped to KBOX" width="500" height="400">
-<b>October 10th, 2018 Hurricane Micheal<br>
-KTLH (Tallahassee, FL) mapped to KBOX (Boston, MA)</center></b>
+<b>October 10th, 2018 Hurricane Micheal - KTLH (Tallahassee, FL) mapped to KBOX (Boston, MA)</center></b><br>
 
 <br>
 
 <center><img src="images/lck2tbw-1.png" alt="KLCK Remapped to KTBW" width="500" height="400">
-<b>April 27th, 2014 Mayflower Arkansas long track EF-4 Tornado<br>
-KLZK (Little Rock, AR) mapped to KTBW (Ruskin, FL)
+<b>April 27th, 2014 Mayflower Arkansas long track EF-4 Tornado - KLZK (Little Rock, AR) mapped to KTBW (Ruskin, FL)><br>
 </center></b>
 
 <br>
 
 <center><img src="images/sgf2okx-1.png" alt="KSGF Remapped to KOKX" width="500" height="400">
 <b>KSGF (Springfield, MO) mapped to KOKX (Upton, NY)<br> at 7:55 PM EDT July 4th, 2019<br>
-(Directly over Midtown Manhattan)</center></b>
+(Directly over Midtown Manhattan)</center></b><br>
 
 <br>
 
-<center><img src="images/ohx2fws-1.png" alt="KOHX Remapped to KFWS" width="500" height="400">
+<center><img src="images/ohx2fws-1.png" alt="KOHX Remapped to KFWS" width="400" height="400">
 <b>May 1 - 2, 2010 Nashville Flash Flooding Event<br>
 KOHX (Nashville, TN) mapped to KFWS (Fort Worth, TX)<br> Date/Time Changed at 12:00AM New Years Eve 2020
-</center></b>
+</center></b><br>
 
 <br>
 
 <center><img src="images/tbw2eax-1.png" alt="KTBW Remapped to KEAX" width="500" height="400">
-<b>October 18th, 2019 Polk County, Florida EF-2 long track tornado,<br>remapped to KEAX (Kansas City, MO) radar
-</center></b>
+<b>October 18th, 2019 Polk County, Florida EF-2 long track tornado - KTBW (Ruskin, FL) remapped to KEAX (Kansas City, MO) radar
+</center></b>>br>
 
 
 ## Final Thoughts
