@@ -22,11 +22,14 @@ These python scripts are designed to be run via the command line.
 2) Place the original level 3 radar files in a directory called "data" within the master directory. For this example <b>/home/bryan/Convert_Level3/data</b>.<br>
 3) For the script <b> convert_level3.py </b> in which only the data RPG station is being changed and not the dates of the data, the command line structure is as follows:<br>
 
-python convert_level3.py <old_station_id <new_station_id> <master path> <product string>" <br><br>
-"product string" can be any valid level3 product Identifier (for example N0Q). In this case, all files in the /data/ directory containing the string "N0Q" will be converted to the new station id. If the string "all" is used for the product string, all files within the /data/ directory will be converted.<br><br>
+python convert_level3.py old_station_id new_station_id master path product string <br><br>
+"product string" can be any valid level3 product Identifier (for example N0Q). In this case, all files in the /data/ directory containing the selected product string will be converted from the old station id to the new station id. If the string "all" is used for the product string, all files within the /data/ directory will be converted from the old_station_id to the new_station_id.<br><br>
 
 <b>python convert_level3.py BMX TBW /home/bryan/Convert_Level3/data/ all</b><br>
 - All files in the data directory from the BMX (Birmingham, AL) radar site will be converted to be from the TBW (Ruskin, FL) radar site. <br><br>
+
+<b>python convert_level3.py BMX TBW /home/bryan/Convert_Level3/data/ N0Q</b><br>
+- All files in the data directory from the BMX (Birmingham, AL) radar site with the string "N0Q" in the filename will be converted to the TBW (Ruskin, FL) radar site. <br><br>
 
 print("or...")
 print("BMX TBW /home/bryan/Convert_Level3/data/ NQ0")
