@@ -16,6 +16,10 @@ Below we see a screenshot of data from the KBMX radar (NWS Birmingham, AL) from 
 
 ## How to Use
 
+These python scripts are designed to be run via the command line. 
+
+1) Place the scripts in a master directory of your chooseing. For this example the master directory will be <b>/home/bryan/Convert_Level3/<b>
+2) Place the original level 3 radar files in a directory called "data" within the master directory. For this example <b>/home/bryan/Convert_Level3/data</b>.<br>
 print("<old_stid> <new_stid> <path> <product string>")
 print("BMX TBW /home/bryan/Convert_Level3/data/ all")
 print("or...")
