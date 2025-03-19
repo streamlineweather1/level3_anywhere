@@ -31,8 +31,10 @@ python convert_level3.py old_station_id new_station_id master path product strin
 <b>python convert_level3.py BMX TBW /home/bryan/Convert_Level3/data/ N0Q</b><br>
 - All files in the data directory from the BMX (Birmingham, AL) radar site with the string "N0Q" in the filename will be converted to the TBW (Ruskin, FL) radar site. <br><br>
 
-print("or...")
-print("BMX TBW /home/bryan/Convert_Level3/data/ NQ0")
+        print("<old_stid> <new_stid> <path> <YYYY/MM/DD> <product string>")
+        print("BMX TBW /home/streamlineweather/Convert_Level3/data/ 2020/03/12 all")
+        print("or...")
+        print("BMX TBW /home/streamlineweather/Convert_Level3/data/ 2020/03/12 NQ0")
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
