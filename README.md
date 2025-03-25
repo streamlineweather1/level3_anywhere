@@ -18,36 +18,33 @@ Below we see a screenshot of data from the KBMX radar (NWS Birmingham, AL) from 
 
 These python scripts are designed to be run via the command line. 
 
-1) Place the scripts in a master directory of your chooseing. For this example the master directory will be <b>/home/bryan/Convert_Level3/</b><br>
-2) Place the original level 3 radar files in a directory called "data" within the master directory. For this example <b>/home/bryan/Convert_Level3/data</b>.<br>
+1) Place the scripts in a master directory of your chooseing. For this example the master directory will be <b>/home/streamlineweather/Convert_Level3/</b><br>
+2) Place the original level 3 radar files in a directory called "data" within the master directory. For this example <b>/home/streamlineweather/Convert_Level3/data</b>.<br>
 3) For the script <b> convert_level3.py </b> in which only the data RPG station is being changed and not the dates of the data, the command line structure is as follows:<br>
 
 <b>python convert_level3.py "old_station_id" "new_station_id" "data_directory" "product_string" </b> <br><br>
 "product string" can be any valid level3 product Identifier (for example N0Q).<br><bR>
-In this case, files in the /home/bryan/Convert_Level3/data/ directory containing the selected product string will be converted from the <b>old station</b> id to the <b>new station id</b>. If the string "all" is used for the product string, all files / products within the /home/bryan/Convert_Level3/data/ directory will be converted from the <b>old_station_id</b> to the <b>new_station_id</b>.<br><br>
+In this case, files in the /home/streamlineweather/Convert_Level3/data/ directory containing the selected product string will be converted from the <b>old station</b> id to the <b>new station id</b>. If the string "all" is used for the product string, all files / products within the /home/streamlineweather/Convert_Level3/data/ directory will be converted from the <b>old_station_id</b> to the <b>new_station_id</b>.<br><br>
 
 Below you will find two examples for converting level 3 data from station to station without changing the date of the data.<b><br>
 
-<b>python convert_level3.py BMX TBW /home/bryan/Convert_Level3/data/ all</b></b><br>
+<b>python convert_level3.py BMX TBW /home/streamlineweather/Convert_Level3/data/ all</b></b><br>
 - All files in the data directory from the BMX (Birmingham, AL) radar site will be converted to the TBW (Ruskin, FL) radar site. <br><br>
 
-<b>python convert_level3.py BMX TBW /home/bryan/Convert_Level3/data/ N0Q</b><br>
+<b>python convert_level3.py BMX TBW /home/streamlineweather/Convert_Level3/data/ N0Q</b><br>
 - All files in the data directory from the BMX (Birmingham, AL) radar site with the string "N0Q" in the filename will be converted to the TBW (Ruskin, FL) radar site. <br><br>
 
-Below you will find two examples for converting level 3 data from station to station and changing the date of the data.<b><br>
+Below you will find examples for converting level 3 data from station to station and changing the date of the data.<br>
 
-<b>python convert _level3_dates.py "old_stid" "new_stid" "data_directory" "YYYY/MM/DD" "product_string")</b><br>
+<b>python convert_level3_dates.py "old_stid" "new_stid" "data_directory" "YYYY/MM/DD" "product_string"</b><br>
 
-In this case, files in the /home/bryan/Convert_Level3/data/ directory containing the selected product string will be converted from the <b>old station</b> id to the <b>new station id</b>. The created files for the <b>"new station"</b> will have a new date_time stamp corresponding to the <b>YYYY/MM/DD</b> used in the command line.<br>
+In this case, files in the /home/streamlineweather/Convert_Level3/data/ directory containing the selected product string will be converted from the <b>old station</b> id to the <b>new station id</b>. The created files for the <b>"new station"</b> will have a new date_time stamp corresponding to the <b>YYYY/MM/DD</b> used in the command line.<br>
 
-        print("BMX TBW /home/streamlineweather/Convert_Level3/data/ 2020/03/12 all")
-        print("or...")
-        print("BMX TBW /home/streamlineweather/Convert_Level3/data/ 2020/03/12 NQ0")
+<b>python convert_level3_dates.py BMX TBW /home/streamlineweather/Convert_Level3/data/ 2020/03/12 all"</b><br>
+- All files in the data directory from the BMX (Birmingham, AL) radar site will be converted to the TBW (Ruskin, FL) radar site with a new date_time stamp of March 12, 2020. <br><br>
 
-<hr style="width:50%;text-align:left;margin-left:0">
-
-## Installation
-No installation is required for this web application. Simply access the WeatherSense through your web browser from the link --link--
+<b>python convert_level3_dates.py BMX TBW /home/streamlineweather/Convert_Level3/data/ 2022/05/25 NQ0"</b><br>
+- All files in the data directory from the BMX (Birmingham, AL) radar site with the string "N0Q" in the filename will be converted to the TBW (Ruskin, FL) radar site with a new date_time stamp of May 25th, 2022. <br><br>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -58,10 +55,6 @@ Contributions to Level2_Anywhere project are welcome. If you find any issues or 
 
 ## License
 Level3_Anywhere is created by Bryan Mroczka of Streamline Weather Consulting, LLC. Users are free to use, modify, and distribute the code in accordance with the terms of the license.
-
-<hr style="width:50%;text-align:left;margin-left:0">
-
-## Acknowledgements
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
