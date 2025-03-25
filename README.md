@@ -12,7 +12,7 @@ The software can handle automatic processing of everything from one single level
 Below we see a screenshot of data from the KBMX radar (NWS Birmingham, AL) from April 11th, 2011 remapped to the KTBW radar (NWS Tampa Bay Area). In this instance, the Tuscaloosa EF-4 tornado event is now impacting the coastline of Pinelles County, Florida.<br><br>
 
 <center><img src="images/bmx2tbw-1.png" alt="KBMX Remapped to KTBW" width="500" height="400">
-<b>April 27th, 2011 Tuscaloosa to Birmingham Tornado - KBMX (Birmingham, AL) mapped to KTBW (Ruskin,FL)</b></center></center>
+<b>April 27th, 2011 Tuscaloosa to Birmingham Tornado - KBMX (Birmingham, AL) remapped to display at KTBW (Ruskin,FL)</b></center></center>
 
 <!--![screenshot](images/bmx2tbw-1.png)-->
 
@@ -51,7 +51,7 @@ In this case, files in the /home/streamlineweather/Convert_Level3/data/ director
 <hr style="width:50%;text-align:left;margin-left:0">
 
 ## Contributions
-Contributions to Level2_Anywhere project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the GitHub repository.
+Contributions to Level3_Anywhere project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the GitHub repository.
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -86,11 +86,7 @@ Level3_Anywhere is created by Bryan Mroczka of Streamline Weather Consulting, LL
 
 <center><img src="images/tbw2eax-1.png" alt="KTBW Remapped to KEAX" width="500" height="400">
 <b>October 18th, 2019 Polk County, Florida EF-2 long track tornado - KTBW (Ruskin, FL) remapped to KEAX (Kansas City, MO) radar
-</center></b>>br>
-
-
-## Final Thoughts
-
+</center></b><br>
 
 <footer>
 
