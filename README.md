@@ -24,17 +24,22 @@ These python scripts are designed to be run via the command line.
 
 <b>python convert_level3.py "old_station_id" "new_station_id" "data_directory" "product_string" </b> <br><br>
 "product string" can be any valid level3 product Identifier (for example N0Q).<br><bR>
-In this case, all files in the /home/bryan/Convert_Level3/data/ directory containing the selected product string will be converted from the <b>old station</b> id to the <b>new station id</b>. If the string "all" is used for the product string, all files / products within the /home/bryan/Convert_Level3/data/ directory will be converted from the <b>old_station_id</b> to the <b>new_station_id</b>.<br><br><br>
+In this case, files in the /home/bryan/Convert_Level3/data/ directory containing the selected product string will be converted from the <b>old station</b> id to the <b>new station id</b>. If the string "all" is used for the product string, all files / products within the /home/bryan/Convert_Level3/data/ directory will be converted from the <b>old_station_id</b> to the <b>new_station_id</b>.<br><br>
 
 Below you will find two examples for converting level 3 data from station to station without changing the date of the data.<b><br>
 
 <b>python convert_level3.py BMX TBW /home/bryan/Convert_Level3/data/ all</b><br>
-- All files in the data directory from the BMX (Birmingham, AL) radar site will be converted to be from the TBW (Ruskin, FL) radar site. <br><br>
+- All files in the data directory from the BMX (Birmingham, AL) radar site will be converted to the TBW (Ruskin, FL) radar site. <br><br>
 
 <b>python convert_level3.py BMX TBW /home/bryan/Convert_Level3/data/ N0Q</b><br>
 - All files in the data directory from the BMX (Birmingham, AL) radar site with the string "N0Q" in the filename will be converted to the TBW (Ruskin, FL) radar site. <br><br>
 
-        print("<old_stid> <new_stid> <path> <YYYY/MM/DD> <product string>")
+Below you will find two examples for converting level 3 data from station to station and changing the date of the data.<b><br>
+
+<b>python convert _level3_dates.py "old_stid" "new_stid" "data_directory" "YYYY/MM/DD" "product_string")</b><br>
+
+In this case, files in the /home/bryan/Convert_Level3/data/ directory containing the selected product string will be converted from the <b>old station</b> id to the <b>new station id</b>. The created files for the <b>"new station"</b> will have a new date_time stamp corresponding to the <b>YYYY/MM/DD</b> used in the command line.<br>
+
         print("BMX TBW /home/streamlineweather/Convert_Level3/data/ 2020/03/12 all")
         print("or...")
         print("BMX TBW /home/streamlineweather/Convert_Level3/data/ 2020/03/12 NQ0")
