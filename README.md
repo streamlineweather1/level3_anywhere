@@ -24,7 +24,9 @@ These python scripts are designed to be run via the command line.
 
 <b>python convert_level3.py "old_station_id" "new_station_id" "data_directory" "product_string" </b> <br><br>
 "product string" can be any valid level3 product Identifier (for example N0Q).<br><bR>
-In this case, all files in the /home/bryan/Convert_Level3/data/ directory containing the selected product string will be converted from the <b>old station</b> id to the <b>new station id</b>. If the string "all" is used for the product string, all files / products within the /home/bryan/Convert_Level3/data/ directory will be converted from the <b>old_station_id</b> to the <b>new_station_id</b>.<br><br>
+In this case, all files in the /home/bryan/Convert_Level3/data/ directory containing the selected product string will be converted from the <b>old station</b> id to the <b>new station id</b>. If the string "all" is used for the product string, all files / products within the /home/bryan/Convert_Level3/data/ directory will be converted from the <b>old_station_id</b> to the <b>new_station_id</b>.<br><br><br>
+
+Below you will find two examples for converting level 3 data from station to station without changing the date of the data.<b><br>
 
 <b>python convert_level3.py BMX TBW /home/bryan/Convert_Level3/data/ all</b><br>
 - All files in the data directory from the BMX (Birmingham, AL) radar site will be converted to be from the TBW (Ruskin, FL) radar site. <br><br>
