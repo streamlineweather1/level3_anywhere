@@ -28,7 +28,7 @@ In this case, files in the /home/bryan/Convert_Level3/data/ directory containing
 
 Below you will find two examples for converting level 3 data from station to station without changing the date of the data.<b><br>
 
-<b>python convert_level3.py BMX TBW /home/bryan/Convert_Level3/data/ all</b><br>
+<b>python convert_level3.py BMX TBW /home/bryan/Convert_Level3/data/ all</b></b><br>
 - All files in the data directory from the BMX (Birmingham, AL) radar site will be converted to the TBW (Ruskin, FL) radar site. <br><br>
 
 <b>python convert_level3.py BMX TBW /home/bryan/Convert_Level3/data/ N0Q</b><br>
