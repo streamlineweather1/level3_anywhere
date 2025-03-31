@@ -88,6 +88,14 @@ Level3_Anywhere is created by Bryan Mroczka of Streamline Weather Consulting, LL
 <b>October 18th, 2019 Polk County, Florida EF-2 long track tornado - KTBW (Ruskin, FL) remapped to KEAX (Kansas City, MO) radar
 </center></b><br>
 
+<br>
+
+The final example shows these converted files displaying in Gibson Ridge Software.
+
+<center><img src="images/bmx_2_lot.png" alt="KBMX Remapped to KLOT" width="500" height="400">
+<b>April 27th, 2011 Tuscaloosa, AL Tornado - KBMX (Birmingham, AL) remapped to KLOT (Chicago, IL) radar
+</center></b><br>
+
 <footer>
 
 <!--
