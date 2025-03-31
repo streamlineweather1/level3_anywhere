@@ -90,7 +90,7 @@ Level3_Anywhere is created by Bryan Mroczka of Streamline Weather Consulting, LL
 
 <br>
 
-##The final example shows converted level3_anywhere files displaying in Gibson Ridge Software.
+## The final example shows converted level3_anywhere files displaying in Gibson Ridge Software.
 
 <center><img src="images/bmx_2_lot.png" alt="KBMX Remapped to KLOT" width="500" height="400">
 <b>April 27th, 2011 Tuscaloosa, AL Tornado - KBMX (Birmingham, AL) remapped to KLOT (Chicago, IL) radar
