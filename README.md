@@ -3,9 +3,9 @@
 
 ## Introducing Level3_Anywhere
 
-The level3_anywhere software package provides a python-based application to convert level3 radar products from an original Radar Product Generator (RPG) radar site to any other valid RPG radar site. This application is designed to allow for a more robust case study archive for training of meteorologists within software that decodes level3 radar data, such as the Advanced Weather Interactive Processing System (AWIPS), level 3 based Gibson Ridge Radar Software applications, the NOAA Weather and Climate Toolkit, and others.<br><br> 
+The <b>level3</b>_anywhere software package provides a python-based application to convert level3 radar products from an original Radar Product Generator (RPG) radar site to any other valid RPG radar site. This application was designed to allow / supply a more robust case study archive for training of meteorologists within their respective region of responsibility utilizing software that decodes level3 radar data, such as the Advanced Weather Interactive Processing System (AWIPS), level 3 based Gibson Ridge Radar Software applications, the NOAA Weather and Climate Toolkit, and others.<br><br> 
 
-With level3_anywhere, past significant weather event from anywhere within the NEXRAD network can be remapped and displayed to the radar and corresponding geographic region of the user's choosing.<br>
+With level3_anywhere, past significant weather event from anywhere within the NEXRAD network can be remapped and displayed to the radar and corresponding geographic region of the user's choosing.<br> For training purposes, the date of the event may be changed in the level3 file as well in order to hide the identity of well-known events during training exercises.  
 
 The software can handle automatic processing of everything from one single level 3 product file to hundreds or thousands of files that would constitute an entire weather event worth of level 3 files. All level 3 products and product identifiers are supported with the current software release.<br>
 
