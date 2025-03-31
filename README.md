@@ -74,7 +74,7 @@ Level3_Anywhere is created by Bryan Mroczka of Streamline Weather Consulting, LL
 <br>
 
 <center><img src="images/sgf2okx-1.png" alt="KSGF Remapped to KOKX" width="500" height="400">
-<b>KSGF (Springfield, MO) mapped to KOKX (Upton, NY)<br> at 7:55 PM EDT July 4th, 2019<br>
+<b>KSGF (Springfield, MO) mapped to KOKX (Upton, NY) at 7:55 PM EDT July 4th, 2019<br>
 (Directly over Midtown Manhattan)</center></b><br>
 
 <br>
