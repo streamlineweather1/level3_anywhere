@@ -51,8 +51,7 @@ In this case, files in the /home/streamlineweather/Convert_Level3/data/ director
 <hr style="width:50%;text-align:left;margin-left:0">
 
 ## Contributions
-Contributions to Level3_Anywhere project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the GitHub repository.
-
+Contributions to Level3_Anywhere project are welcome.
 <hr style="width:50%;text-align:left;margin-left:0">
 
 ## License
