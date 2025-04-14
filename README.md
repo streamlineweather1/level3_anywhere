@@ -5,9 +5,9 @@
 
 The <b>level3</b>_anywhere software package provides a python-based application to convert level3 radar products from an original Radar Product Generator (RPG) radar site to any other valid RPG radar site. This application was designed to supply a more robust case study archive for training of meteorologists within their respective regions of responsibility, utilizing software that decodes level3 radar data, such as the Advanced Weather Interactive Processing System (AWIPS), level 3 based Gibson Ridge Radar Software applications, the NOAA Weather and Climate Toolkit, and more.<br>
 
-With level3_anywhere, past significant weather event from anywhere within the NEXRAD network can be remapped and displayed to the radar and corresponding geographic region of the user's choosing. For training purposes, the date of the event may be changed in the level3 file as well in order to hide the identity of well-known events during training exercises.  
+With level3_anywhere, past significant weather event from anywhere within the NEXRAD network can be remapped and displayed to the radar and corresponding geographic region of the user's choosing.  For training purposes, the date of the event may be changed in the level3 file as well in order to hide the identity of well-known events during training exercises.  
 
-The software can handle automatic processing of everything from one single level 3 product file to hundreds or thousands of files that would constitute an entire weather event worth of level 3 files. All level 3 products and product identifiers are supported with the current software release.<br>
+The software can handle automatic processing of everything from one single level 3 product file to hundreds or thousands of files that would constitute an entire weather event. All level 3 products and product identifiers are supported with the current software release.<br>
 
 Below we see a screenshot of data from the KBMX radar (NWS Birmingham, AL) from April 11th, 2011 remapped to the KTBW radar (NWS Tampa Bay Area). In this instance, the Tuscaloosa EF-4 tornado event is now impacting the coastline of Pinelles County, Florida.<br><br>
 
